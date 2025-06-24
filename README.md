@@ -16,7 +16,7 @@ To design and implement a normalized relational database schema using SQL and re
 
 ### 🛠 Tools Used
 
-- MySQL Workbench / dbdiagram.io
+- MySQL Workbench
 - GitHub
 
 ---
